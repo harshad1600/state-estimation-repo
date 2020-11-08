@@ -14,6 +14,6 @@ Ground-truth:
 
 Estimated trajectory:
 
-![](week2/images/mygraph2.png)
+![](week2/images/mygraph1.png)
 
 
