@@ -14,6 +14,11 @@ While dealing with non-linear models, they are first linearized with Taylor seri
 	Prior estimate with non-linear motion model
 
 	![](week2/images/equations/img_9.PNG)
+- Step 2:
+
+	Propogation of co-variance from past estimate
+
+	![](week2/images/equations/img_10.PNG)
 
 
 ## Result:
