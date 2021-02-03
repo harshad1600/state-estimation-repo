@@ -19,6 +19,9 @@ While dealing with non-linear models, they are first linearized with Taylor seri
 	Propogation of co-variance from past estimate
 
 	![](week2/images/equations/img_10.PNG)
+	![](week2/images/equations/img_11.PNG)
+
+	The above Jacobians represent the gradient of motion model's function about our previous state.
 
 
 ## Result:
