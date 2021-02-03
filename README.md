@@ -22,7 +22,31 @@ While dealing with non-linear models, they are first linearized with Taylor seri
 
 	![](week2/images/equations/img_11.PNG)
 
-	The above Jacobians represent the gradient of motion model's function about our previous state.
+	The above Jacobians represent the gradient of motion model's function at our previous state.
+
+- Step 3:
+
+	Measurement model evaluates the observations to be expected given the prior estimate is true.
+
+	![](week2/images/equations/img_12.PNG)
+
+	![](week2/images/equations/img_14.PNG)
+
+	The above Jacobians represent the gradient of sensor model's function at our prior estimate.
+
+- Step 4:
+
+	Computing Kalman Gain based on co-variances
+
+	![](week2/images/equations/img_13.PNG)
+
+- Step 5:
+	
+	Correction step
+
+	![](week2/images/equations/img_15.PNG)
+
+
 
 
 ## Result:
