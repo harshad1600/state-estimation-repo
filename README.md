@@ -13,7 +13,7 @@ While dealing with non-linear models, they are first linearized with Taylor seri
 
 	Prior estimate with non-linear motion model
 
-	![](week2/images/equations/img_7.PNG)
+	![](week2/images/equations/img_9.PNG)
 
 
 ## Result:
