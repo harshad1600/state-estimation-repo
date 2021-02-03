@@ -52,6 +52,8 @@ In this assignment, the task was to precisely estimate the trajectory of an auto
 
 Linear and angular velocities at each instant were provided.A differential drive motion model was formulated to predict the pose of the vehicle using this data.
 
+![](week2/images/equations/img_5.PNG)
+
 ![](week2/images/equations/img_16.PNG)
 
 The Lidar sensor measured range and bearing angle corresponding to each globally known landmark.The sensor model predicted the range and bearing measurements for these landmarks w.r.t. prior pose estimate.
